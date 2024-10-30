@@ -1,0 +1,59 @@
+:root {
+    --bg-color:#2E073F;
+    --primary-color:#ebe3e8;
+    --secondary-color:#7a1cac;
+    --font: "Kode mono", monospace;
+}
+body{
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: var(--font);
+    height: 100vh;
+    margin: 5vh;
+}
+header{
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 1px;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+   text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+}
+
+#missão {
+    font-size: 20px;
+}
+
+
+.itens {
+    font-style: italic;
+}
+
+#video {
+    width: 50%;
+    height: 70%;
+}
+
+ul {
+    text-align: center;
+}
+header{
+    background-color: #58256e;
+}
+ul{
+    background-color:#7a1cac;
+}
+
